@@ -1,2 +1,2 @@
 # RxPro
-Desafio
+Desafio técnico CRUD autenticado da RXPRO
